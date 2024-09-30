@@ -4,3 +4,15 @@ gtk-4.0/
 ml4w/
 qt6ct/
 xsettingsd/
+# custom files
+.oh-my-zsh/custom/
+
+# temp files directories
+.oh-my-zsh/cache/
+.oh-my-zsh/log/
+.oh-my-zsh/.swp
+.oh-my-zsh/DS_Store
+
+# editor configs
+.oh-my-zsh/.vscode
+.oh-my-zsh/.idea
