@@ -6,3 +6,5 @@
 ![screenshot_30092024_185909](https://github.com/user-attachments/assets/ccb4ff4a-5816-40ff-a894-ad20da0b745c)
 
 ![screenshot_30092024_190012](https://github.com/user-attachments/assets/1a5bbc86-96d0-473e-9547-8d12c8a022d3)
+
+![screenshot_30092024_190649](https://github.com/user-attachments/assets/3dc7a658-b1e3-43b6-9a2c-ae31ecec16d6)
