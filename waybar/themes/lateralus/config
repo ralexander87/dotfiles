@@ -27,8 +27,8 @@
 
     // Load Modules
     "include": [
-        "~/.config/waybar/themes/rAleX/waybar-quicklinks.json",
-        "~/.config/waybar/themes/rAleX/modules.json"
+        "~/.config/waybar/themes/lateralus/waybar-quicklinks.json",
+        "~/.config/waybar/themes/lateralus/modules.json"
     ],
 
     // Modules Left
