@@ -4,7 +4,7 @@ gtk-4.0/
 ml4w/
 qt6ct/
 xsettingsd/
-/dotfiles/.config/btop/btop.log
+btop/btop.log
 #
 # OhMyZSH
 #
@@ -19,3 +19,6 @@ xsettingsd/
 # editor configs
 .oh-my-zsh/.vscode
 .oh-my-zsh/.idea
+waybar/themes/assets/
+waybar/themes/default/
+waybar/themes/starter/
