@@ -74,7 +74,7 @@ window#waybar {
   background-color: @color11;
   border: 3px solid @color0;
   font-size: 16px;
-  color: #ff0000;
+  color: @color0;
   border-radius: 15px;
 }
 
@@ -150,13 +150,9 @@ window#waybar.empty #window {
  * Custom Quicklinks
  * ----------------------------------------------------- */
 
-#custom-brave,
 #custom-browser,
 #custom-keybindings,
 #custom-filemanager,
-#custom-calculator,
-#custom-windowsvm,
-#custom-cliphist,
 #custom-settings,
 #custom-wallpaper,
 #custom-system,
@@ -421,13 +417,13 @@ window#waybar.empty #window {
 @keyframes blink {
   to {
     background-color: @backgroundlight;
-    color: @textcolor2;
+    color: @color2;
   }
 }
 
 #battery.critical:not(.charging) {
   background-color: #f53c3c;
-  color: @textcolor3;
+  color: @color3;
   animation-name: blink;
   animation-duration: 0.5s;
   animation-timing-function: linear;
