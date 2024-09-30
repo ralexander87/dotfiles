@@ -4,7 +4,10 @@ gtk-4.0/
 ml4w/
 qt6ct/
 xsettingsd/
-# custom files
+
+#
+# OhMyZSH
+#
 .oh-my-zsh/custom/
 
 # temp files directories
