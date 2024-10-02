@@ -1,11 +1,8 @@
 # dotfiles<h1 align="center">
 
   <br>
-  <a href="https://github.com/ralexander87/dotfiles"><img src="https://github.com/user-attachments/assets/23be1403-39ca-470f-9ba8-87c3751e1223" alt="rAlex" width="200"></a>
+<h4 align="center">.files</h4>
   <br>
-  .files
-  <br>
-</h1>
 
 <h4 align="center">First version of hyprLand on Arch DotFiles...</h4>
 
@@ -32,8 +29,8 @@ https://github.com/user-attachments/assets/663dd749-a561-4599-8f66-d60dece7905b
 
 ## 🎨 Colors
 
-PyWal-generated colors based on wallpaper are cached in the `.cache/wal/` folder.
-You can make any template in `.config/wal/templates`. Replace the places with `{color0}` in the range `0-15`, and the template will be generated and found in `.cache/wal/` that you can source.
+PyWal-generated colors based on the wallpaper are cached in the `.cache/wal/` folder.
+You can make any template in `.config/wal/templates`. Replace the places with `{color0}` in the range `0-15`; the template will be generated and found in `.cache/wal/` that you can source.
 
 ## How To Use
 
