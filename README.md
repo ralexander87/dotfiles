@@ -1,8 +1,7 @@
 # dotfiles<h1 align="center">
 
   <br>
-  <a href="https://github.com/ralexander87/dotfiles"><img src="![ava](https://github.com/user-attachments/assets/23be1403-39ca-470f-9ba8-87c3751e1223)
-" alt="Markdownify" width="200"></a>
+  <a href="https://github.com/ralexander87/dotfiles"><img src="https://github.com/user-attachments/assets/23be1403-39ca-470f-9ba8-87c3751e1223" alt="rAlex" width="200"></a>
   <br>
   .files
   <br>
