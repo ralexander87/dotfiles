@@ -7,7 +7,6 @@ style = "Regular"
 
 [window]
 opacity = 0.9
-live_config_reload = true
 
 [window.padding]
 x = 15
