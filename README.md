@@ -32,8 +32,9 @@ https://github.com/user-attachments/assets/663dd749-a561-4599-8f66-d60dece7905b
 
 PyWal-generated colors based on the wallpaper are cached in the `.cache/wal/` folder.
 You can make any template in `.config/wal/templates`. Replace the places with `{color0}` in the range `0-15`; the template will be generated and found in `.cache/wal/` that you can source.
+<br>
 ![image](https://github.com/user-attachments/assets/a53faf76-3fe3-4928-bc44-9553fe91b297)
-
+<br>
 ## How To Use
 
 This is just own `dotfiles` that image. It is not made to be installed via `git clone`... It is best to just clone `repo` and go from there by hand...
