@@ -50,3 +50,5 @@ git clone https://github.com/ralexander87/dotfiles
 ## Hanna Montana FTW...
 ![image](https://github.com/user-attachments/assets/45e6433d-72a7-455d-9c4d-36cc49a1cdc7)
 
+## Firefox
+![image](https://github.com/user-attachments/assets/fb694231-e276-41c7-9b89-1326c56f8890)
