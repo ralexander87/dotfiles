@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/663dd749-a561-4599-8f66-d60dece7905b
 ## 🎨 Colors
 
 PyWal-generated colors based on the wallpaper are cached in the `.cache/wal/` folder.
-You can make any template in `.config/wal/templates`. Replace the places with `{color0}` in the range `0-15`; the template will be generated and found in `.cache/wal/` that you can source.
+You can make any template using `.config/wal/templates`. Replace the places with `{color0}` in the range `0-15`; the template will be generated and found in `.cache/wal/` that you can source.
 <br>
 ![image](https://github.com/user-attachments/assets/a53faf76-3fe3-4928-bc44-9553fe91b297)
 <br>
@@ -48,4 +48,7 @@ git clone https://github.com/ralexander87/dotfiles
 > It is not made to be installed and used.
 
 ![image](https://github.com/user-attachments/assets/dc0c8209-87f9-4cd6-b2f0-b2e22d81bebb)
+
+## Hanna Montana FTW...
+![image](https://github.com/user-attachments/assets/45e6433d-72a7-455d-9c4d-36cc49a1cdc7)
 
