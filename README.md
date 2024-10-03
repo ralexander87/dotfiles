@@ -3,15 +3,13 @@
 <h4 align="center">.files</h4>
 <h1 align="center">
 <br>
-<a><img src="https://github.com/user-attachments/assets/d458cb2f-0002-4831-b50e-0b82500918a2" alt="Robert Alexander" width="250"></a>
+<a><img src="https://github.com/user-attachments/assets/351acad6-7e97-417c-b76d-de8febc656f6" alt="Robert Alexander" width="250"></a>
 </h1>
 
 <h4 align="center">First version of hyprLand on Arch DotFiles...</h4>
 
 
 https://github.com/user-attachments/assets/663dd749-a561-4599-8f66-d60dece7905b
-
-
 
 ## Key Features
 
