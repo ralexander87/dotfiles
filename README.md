@@ -1,16 +1,10 @@
 # dotfiles<h1 align="center">
 
 <h4 align="center">.files</h4>
-<h1 align="center">
   <br>
-  <a href="https://github.com/ralexander87/"><img src="https://github.com/user-attachments/assets/d458cb2f-0002-4831-b50e-0b82500918a2
-" alt="Robert Alexander" width="250"></a>
-</h1>
+<a href="https://github.com/ralexander87/"><img src="https://github.com/user-attachments/assets/d458cb2f-0002-4831-b50e-0b82500918a2" alt="Robert Alexander" width="250"></a>
 
 <h4 align="center">First version of hyprLand on Arch DotFiles...</h4>
-
- <a href=![ralexxx-transp](https://github.com/user-attachments/assets/6541ea89-0b1f-45fc-8a52-858a0d4e60ea) width="200"></a>
-
 
 
 https://github.com/user-attachments/assets/663dd749-a561-4599-8f66-d60dece7905b
