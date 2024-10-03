@@ -2,7 +2,7 @@
 
   <br>
 <h4 align="center">.files</h4>
-<h4 align="center"> ![ralexxx-transp](https://github.com/user-attachments/assets/d458cb2f-0002-4831-b50e-0b82500918a2) </h4>
+<h4 align="center">![ralexxx-transp](https://github.com/user-attachments/assets/d458cb2f-0002-4831-b50e-0b82500918a2)</h4>
 
   <br>
 
