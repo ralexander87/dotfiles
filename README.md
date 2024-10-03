@@ -9,7 +9,8 @@
 
 <h4 align="center">First version of hyprLand on Arch DotFiles...</h4>
 
-![image](https://github.com/user-attachments/assets/7c6422ae-e635-47de-965b-ad1163338406)
+ <a href="[[![ralexxx-transp](https://github.com/user-attachments/assets/6541ea89-0b1f-45fc-8a52-858a0d4e60ea)
+]]" width="200"></a>
 
 
 
