@@ -5,6 +5,7 @@
   <br>
 
 <h4 align="center">First version of hyprLand on Arch DotFiles...</h4>
+![image](https://github.com/user-attachments/assets/7c6422ae-e635-47de-965b-ad1163338406)
 
 
 
@@ -31,6 +32,7 @@ https://github.com/user-attachments/assets/663dd749-a561-4599-8f66-d60dece7905b
 
 PyWal-generated colors based on the wallpaper are cached in the `.cache/wal/` folder.
 You can make any template in `.config/wal/templates`. Replace the places with `{color0}` in the range `0-15`; the template will be generated and found in `.cache/wal/` that you can source.
+![image](https://github.com/user-attachments/assets/a53faf76-3fe3-4928-bc44-9553fe91b297)
 
 ## How To Use
 
@@ -43,3 +45,6 @@ git clone https://github.com/ralexander87/dotfiles
 
 > **Note**
 > It is not made to be installed and used.
+
+![image](https://github.com/user-attachments/assets/dc0c8209-87f9-4cd6-b2f0-b2e22d81bebb)
+
