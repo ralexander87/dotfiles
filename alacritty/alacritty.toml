@@ -14,3 +14,15 @@ y = 15
 
 [selection]
 save_to_clipboard = true
+
+[[colors.indexed_colors]]
+color = "#FAB387"
+index = 16
+
+[[colors.indexed_colors]]
+color = "#F5E0DC"
+index = 17
+
+[colors.cursor]
+cursor = "#F5E0DC"
+text = "#1E1E2E"

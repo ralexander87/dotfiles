@@ -231,14 +231,14 @@ xaxis = frequency
 
 gradient = 1
 gradient_count = 8
-gradient_color_1 = '#A99778'
-gradient_color_2 = '#D08870'
-gradient_color_3 = '#5A7598'
-gradient_color_4 = '#90768E'
-gradient_color_5 = '#6486AD'
-gradient_color_6 = '#7DA2C2'
-gradient_color_7 = '#ecdcbd'
-gradient_color_8 = '#a59a84'
+gradient_color_1 = '#63535A'
+gradient_color_2 = '#865B3C'
+gradient_color_3 = '#946C69'
+gradient_color_4 = '#A17985'
+gradient_color_5 = '#7C8381'
+gradient_color_6 = '#AD9296'
+gradient_color_7 = '#ddcacc'
+gradient_color_8 = '#9a8d8e'
 
 [smoothing]
 

@@ -1,75 +1,75 @@
 return {
   command = {
     a = {
-      bg = "#7FA3C3",
-      fg = "#191D24",
+      bg = "#AE9397",
+      fg = "#080E16",
       gui = "bold"
     },
     b = {
-      bg = "#A49984",
-      fg = "#7FA3C3"
+      bg = "#9A8D8F",
+      fg = "#AE9397"
     }
   },
   inactive = {
     a = {
-      bg = "#A49984",
-      fg = "#EBDCBC"
+      bg = "#9A8D8F",
+      fg = "#DDCACC"
     },
     b = {
-      bg = "#A49984",
-      fg = "#EBDCBC"
+      bg = "#9A8D8F",
+      fg = "#DDCACC"
     },
     c = {
-      bg = "#A49984",
-      fg = "#EBDCBC"
+      bg = "#9A8D8F",
+      fg = "#DDCACC"
     }
   },
   insert = {
     a = {
-      bg = "#8F768C",
-      fg = "#191D24",
+      bg = "#A17884",
+      fg = "#080E16",
       gui = "bold"
     },
     b = {
-      bg = "#A49984",
-      fg = "#8F768C"
+      bg = "#9A8D8F",
+      fg = "#A17884"
     }
   },
   normal = {
     a = {
-      bg = "#D18971",
-      fg = "#191D24",
+      bg = "#865B3C",
+      fg = "#080E16",
       gui = "bold"
     },
     b = {
-      bg = "#A49984",
-      fg = "#D18971"
+      bg = "#9A8D8F",
+      fg = "#865B3C"
     },
     c = {
-      bg = "#191D24",
-      fg = "#EBDCBC"
+      bg = "#080E16",
+      fg = "#DDCACC"
     }
   },
   replace = {
     a = {
-      bg = "#A99879",
-      fg = "#191D24",
+      bg = "#64545B",
+      fg = "#080E16",
       gui = "bold"
     },
     b = {
-      bg = "#A49984",
-      fg = "#A99879"
+      bg = "#9A8D8F",
+      fg = "#64545B"
     }
   },
   visual = {
     a = {
-      bg = "#597497",
-      fg = "#191D24",
+      bg = "#956D6A",
+      fg = "#080E16",
       gui = "bold"
     },
     b = {
-      bg = "#A49984",
-      fg = "#597497"
+      bg = "#9A8D8F",
+      fg = "#956D6A"
     }
   }
 }
