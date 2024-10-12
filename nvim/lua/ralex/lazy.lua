@@ -13,7 +13,6 @@ vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
 	{ import = "ralex.plugins" },
-	{ import = "ralex.plugins.lsp" },
 }, {
 	checker = { enabled = true, notify = false },
 	change_detection = { notify = false },
