@@ -10,7 +10,6 @@ xsettingsd/
 .oh-my-zsh/DS_Store
 .oh-my-zsh/.github/
 .oh-my-zsh/.git/
-.oh-my-zsh/.gitignore
 
 # editor configs
 .oh-my-zsh/.vscode
