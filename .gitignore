@@ -4,7 +4,7 @@ qt6ct/
 xsettingsd/
 #
 # temp files directories
-.oh_my_zsh/
+oh_my_zsh/
 # editor configs
 waybar/themes/assets/
 waybar/themes/default/
