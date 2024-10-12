@@ -1,0 +1,21 @@
+ags/
+ml4w/
+qt6ct/
+xsettingsd/
+#
+# temp files directories
+.oh-my-zsh/cache/
+.oh-my-zsh/log/
+.oh-my-zsh/.swp
+.oh-my-zsh/DS_Store
+.oh-my-zsh/.github/
+.oh-my-zsh/.git/
+.oh-my-zsh/.gitignore
+
+# editor configs
+.oh-my-zsh/.vscode
+.oh-my-zsh/.idea
+waybar/themes/assets/
+waybar/themes/default/
+waybar/themes/starter/
+
