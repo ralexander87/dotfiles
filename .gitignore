@@ -4,16 +4,8 @@ qt6ct/
 xsettingsd/
 #
 # temp files directories
-.oh_my_zsh/cache/
-.oh_my_zsh/log/
-.oh_my_zsh/.swp
-.oh_my_zsh/DS_Store
-.oh_my_zsh/.github/
-.oh_my_zsh/.git/
-
+.oh_my_zsh/
 # editor configs
-.oh_my_zsh/.vscode
-.oh_my_zsh/.idea
 waybar/themes/assets/
 waybar/themes/default/
 waybar/themes/starter/
