@@ -10,3 +10,8 @@ waybar/themes/default/
 waybar/themes/starter/
 .oh_my_zsh/.git/
 .oh_my_zsh/.github/
+.oh_my_zsh/cache/
+.oh_my_zsh/.editorconfig
+.oh_my_zsh/.gitignore
+.oh_my_zsh/.gitpod.Dockerfile
+.oh_my_zsh/.gitpod.yml
