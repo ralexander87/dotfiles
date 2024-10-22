@@ -30,8 +30,8 @@ plugins=(
 
 # Set-up oh-my-zsh
 source $ZSH/oh-my-zsh.sh
-CASE_SENSITIVE="true"
 zstyle ':omz:update' frequency 3
+CASE_SENSITIVE="true"
 DISABLE_MAGIC_FUNCTIONS="false"
 DISABLE_LS_COLORS="false"
 DISABLE_AUTO_TITLE="false"
