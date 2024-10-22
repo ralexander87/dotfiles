@@ -27,7 +27,7 @@
 }
 
 window#waybar {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.5);
   border-bottom: 0px solid #ffffff;
   /* color: #FFFFFF; */
   transition-property: background-color;
@@ -40,7 +40,7 @@ window#waybar {
 
 #workspaces {
   margin: 5px 1px 6px 1px;
-  padding: 0px 1px;
+  padding: 0px 0px;
   border-radius: 15px;
   border: 0px;
   font-weight: bold;
@@ -61,7 +61,7 @@ window#waybar {
 }
 
 #workspaces button.active {
-  background-color: @color11;
+  background-color: @color2;
   border: 3px solid @color0;
   font-size: 16px;
   color: @color0;
