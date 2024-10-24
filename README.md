@@ -49,9 +49,13 @@ git clone https://github.com/ralexander87/dotfiles
 ## Keybinds
 
 `super + Enter` - kitty terminal
+
 `super + b` - Firefox
+
 `super + e` - Nautilus file browser
+
 `super + CTRL + q ` - wlogout
+
 `super + v` - cliphist
 `super + d` - rofi launcher
 `super + w` - random wallpaper 
