@@ -27,12 +27,18 @@
   - [PyWal](https://github.com/dylanaraps/pywal) 
 - Obsidian - note-taking APP
 
-## Show
-Cava, kitty, btop, nvim
+## ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5735656f5a485070557839736170523065752f67697068792e676966](https://github.com/user-attachments/assets/91c8fedc-aef2-4a2c-baaa-ed6a66bed711) Show
+- Cava, kitty, btop, nvim
 ![image](https://github.com/user-attachments/assets/8aae3b88-9815-43f1-8b3e-27d007758b65)
 
+- rofi launcher
 ![image](https://raw.githubusercontent.com/ralexander87/dotfiles/refs/heads/main/img/rofi.jpg)
-https://raw.githubusercontent.com/ralexander87/dotfiles/refs/heads/main/img/rofi.jpg
+
+- nVim
+![image](https://github.com/user-attachments/assets/f8fb4825-784c-4db8-819f-8d5fb9550d4f)
+
+- waypaper
+![image](https://github.com/user-attachments/assets/74b76877-ce0b-4816-a400-451cba080fa4)
 
 ## 🎨 Colors
 
