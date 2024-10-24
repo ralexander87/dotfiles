@@ -19,9 +19,7 @@
     - zsh (shell) with [OhMyZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
     - [fastFetch](https://github.com/fastfetch-cli/fastfetch) - system information displayed in the terminal
   - [nVim](https://neovim.io/) - As main text editor...
-    - lazy plugin manager
   - [btop](https://github.com/aristocratos/btop) - Resource Monitor...
-    - By using `tty` color scheme, it follows `pywal` colors
   - [waybar](https://github.com/Alexays/Waybar) - Created custom theme from starter directory...
   - [rofi](https://github.com/davatorium/rofi) - app launcher
   - [PyWal](https://github.com/dylanaraps/pywal) 
