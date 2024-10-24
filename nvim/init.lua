@@ -1,2 +1,2 @@
-require("ralex.core")
-require("ralex.lazy")
+require("lateralus.core")
+require("lateralus.lazy")
