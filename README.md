@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/ralexander87/dotfiles/0ba24430cdcacaaf99a6b0701a3e045371a2b660/img/rAlex.png" alt="Robert Alexander" width="200">
+  <img src="https://raw.githubusercontent.com/ralexander87/dotfiles/0ba24430cdcacaaf99a6b0701a3e045371a2b660/img/rAlex.png" alt="Robert Alexander" width="250">
   <br>
   ... files
   <br>
@@ -57,8 +57,11 @@ git clone https://github.com/ralexander87/dotfiles
 `super + CTRL + q ` - wlogout
 
 `super + v` - cliphist
+
 `super + d` - rofi launcher
+
 `super + w` - random wallpaper 
+
 
 ## Related
 
