@@ -27,7 +27,7 @@
   - [PyWal](https://github.com/dylanaraps/pywal) 
 - Obsidian - note-taking APP
 
-## ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5735656f5a485070557839736170523065752f67697068792e676966](https://github.com/user-attachments/assets/91c8fedc-aef2-4a2c-baaa-ed6a66bed711) Show
+##  Show
 - Cava, kitty, btop, nvim
 ![image](https://github.com/user-attachments/assets/8aae3b88-9815-43f1-8b3e-27d007758b65)
 
