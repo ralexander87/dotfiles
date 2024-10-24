@@ -28,8 +28,8 @@
 - Obsidian - note-taking APP
 
 ##  Show
-- Cava, kitty, btop, nvim
-![image](https://github.com/user-attachments/assets/8aae3b88-9815-43f1-8b3e-27d007758b65)
+- Cava, kitty, btop
+![image](https://github.com/user-attachments/assets/10f1cb20-fa6a-42bd-8228-cd60ff817f0b)
 
 - rofi launcher
 ![image](https://raw.githubusercontent.com/ralexander87/dotfiles/refs/heads/main/img/rofi.jpg)
@@ -48,7 +48,7 @@ You can make any template using `.config/wal/templates`. Replace the places with
 
 ## How To Use
 
-This is just own `dotfiles` that image. It is not made to be installed via `git clone`... It is best to just clone `repo` and go from there by hand...
+It is not made to be installed via `git clone`. Best to just clone `repo` and go from there by hand...
 
 ```bash
 # Clone this repository
