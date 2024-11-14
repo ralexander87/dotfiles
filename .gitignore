@@ -1,0 +1,12 @@
+ags/
+ml4w/
+qt6ct/
+xsettingsd/
+#
+# temp files directories
+# editor configs
+waybar/themes/assets/
+waybar/themes/default/
+waybar/themes/starter/
+gtk-4.0/servers
+nwg-dock-hyprland/
