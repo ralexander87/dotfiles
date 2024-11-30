@@ -28,7 +28,14 @@
 ##  Show
 - Cava, kitty, btop
 ![image](https://github.com/user-attachments/assets/10f1cb20-fa6a-42bd-8228-cd60ff817f0b)
+
+-- Purple
 ![screenshot_15112024_233154](https://github.com/user-attachments/assets/6e6be34c-f400-433e-9bc8-2ef0e6f4bdf7)
+
+-- Dark
+![screenshot_18112024_181111](https://github.com/user-attachments/assets/bbca1006-a230-4976-8932-35568c417e33)
+
+![screenshot_20112024_193702](https://github.com/user-attachments/assets/5624e695-6149-443f-9ee6-008ebe35284b)
 
 - rofi launcher
 ![image](https://raw.githubusercontent.com/ralexander87/dotfiles/refs/heads/main/img/rofi.jpg)
