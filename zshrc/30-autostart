@@ -6,6 +6,8 @@
 # Pywal
 # -----------------------------------------------------
 # cat ~/.cache/wal/sequences
+eval $(ssh-agent -s) > /dev/null
+ssh-add ~/.ssh/gitHub_ed25519 > /dev/null
 source ~/.cache/wal/colors-tty.sh
 # -----------------------------------------------------
 # Fastfetch
