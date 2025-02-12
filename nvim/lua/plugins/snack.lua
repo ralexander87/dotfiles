@@ -42,7 +42,7 @@ return {
           pane = 2,
           section = "terminal",
           cmd = "colorscript -e square",
-          height = 5,
+          height = 8,
           padding = 1,
         },
         { section = "keys", gap = 1, padding = 1 },
@@ -57,7 +57,7 @@ return {
             return Snacks.git.get_root() ~= nil
           end,
           cmd = "git status --short --branch --renames",
-          height = 5,
+          height = 10,
           padding = 1,
           ttl = 5 * 60,
           indent = 3,
