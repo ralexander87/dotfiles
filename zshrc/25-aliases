@@ -1,0 +1,64 @@
+#   █████╗ ██╗     ██╗ █████╗ ███████╗
+#  ██╔══██╗██║     ██║██╔══██╗██╔════╝
+#  ███████║██║     ██║███████║███████╗
+#  ██╔══██║██║     ██║██╔══██║╚════██║
+#  ██║  ██║███████╗██║██║  ██║███████║
+#  ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝╚══════╝
+#                                     
+
+# -----------------------------------------------------
+# General
+# -----------------------------------------------------
+alias c='clear'
+alias svim='sudo nvim'
+alias cat='bat'
+alias ld='exa -Dl --icons'
+alias ls='exa --icons'
+alias cls='clear ; exa --icons'
+alias ll='exa -alhbo --no-time --total-size --icons --group-directories-first'
+alias cll='clear ; exa -alhbo --no-time --total-size --icons --group-directories-first'
+alias la='exa -ha --icons'
+alias cla='clear ; exa -ha --icons'
+alias lt='eza -a --tree --level=1 --icons'
+alias shutdown='systemctl poweroff'
+alias v='$EDITOR'
+alias vim='$EDITOR'
+alias wifi='nmtui'
+alias cleanup='~/.config/ml4w/scripts/cleanup.sh'
+
+# -----------------------------------------------------
+# Window Managers
+# -----------------------------------------------------
+
+alias Qtile='startx'
+# Hyprland with Hyprland
+
+# -----------------------------------------------------
+# Git
+# -----------------------------------------------------
+alias gs="git status"
+alias ga="git add"
+alias gc="git commit -m"
+alias gp="git push"
+alias gpl="git pull"
+alias gst="git stash"
+alias gsp="git stash; git pull"
+alias gfo="git fetch origin"
+alias gcheck="git checkout"
+alias gcredential="git config credential.helper store"
+
+# -----------------------------------------------------
+# Scripts
+# -----------------------------------------------------
+
+# -----------------------------------------------------
+# System
+# -----------------------------------------------------
+alias update-grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
+
+# -----------------------------------------------------
+# Qtile
+# -----------------------------------------------------
+alias res1='xrandr --output DisplayPort-0 --mode 2560x1440 --rate 120'
+alias res2='xrandr --output DisplayPort-0 --mode 1920x1080 --rate 120'
+alias setkb='setxkbmap de;echo "Keyboard set back to de."'
