@@ -13,6 +13,7 @@ ZSH_THEME=robbyrussell
 # -----------------------------------------------------
 plugins=(
     colored-man-pages
+    ssh-agent
     catimg
     colorize
     git

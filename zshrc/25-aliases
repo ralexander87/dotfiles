@@ -26,6 +26,9 @@ alias vim='$EDITOR'
 alias wifi='nmtui'
 alias cleanup='~/.config/ml4w/scripts/cleanup.sh'
 
+# LazyGIT
+alias lg='lazygit'
+
 # -----------------------------------------------------
 # Window Managers
 # -----------------------------------------------------
