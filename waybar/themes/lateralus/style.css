@@ -46,7 +46,7 @@ window#waybar {
  * ----------------------------------------------------- */
 
 #workspaces {
-  margin: 7px 0px 5px 0px;
+  margin: 5px 0px 5px 0px;
   padding: 0px 0px;
   border-radius: 15px;
   border: 0px;
@@ -58,11 +58,11 @@ window#waybar {
 #workspaces button {
   background-color: @color0;
   border: 3px solid @color2;
-  min-width: 14px;
-  font-size: 16px;
+  min-width: 17px;
+  font-size: 17px;
   color: @color2;
-  border-radius: 15px;
-  padding: 0px 5px;
+  border-radius: 25px;
+  padding: 0px 5px 0px 5px;
   margin: 5px 3px;
   transition: all 0.3s ease-in-out;
 }
@@ -72,13 +72,14 @@ window#waybar {
   border: 3px solid #000000;
   font-size: 17px;
   color: @color0;
+  padding: 1px 0px 0px 5px;
   border-radius: 15px;
   min-width: 30px;
   transition: all 0.3s ease-in-out;
 }
 
 #workspaces button:hover {
-  background-color: transparent;
+  background-color: @color2;
   border: 3px solid @color0;
   font-size: 17px;
   color: @color0;
