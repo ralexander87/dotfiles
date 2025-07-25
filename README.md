@@ -27,7 +27,8 @@
 - Arch Linux with [Hyprland](https://hypr.land/)
 - Using [ML4W](https://github.com/mylinuxforwork/dotfiles) script
 - Created new [waybar](https://github.com/Alexays/Waybar) theme
-  <img src="https://i.ibb.co/wZLYcmMc/way.png">
+
+<a href="https://ibb.co/rKtvdr4d"><img src="https://i.ibb.co/0pXQsbhs/way.png" alt="way" border="0" /></a>
 - Customized **ZSHRC** configuration
 
 ## How To Use
