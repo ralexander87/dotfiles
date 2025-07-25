@@ -2,3 +2,11 @@ ml4w/
 *.log
 vim/
 bashrc/
+hypr/colors.conf
+kitty/colors-matugen.conf
+kitty/colors-wallust.conf
+ohmyposh/colors.json
+waybar/colors.css
+wlogout/colors.css
+waypaper/
+rofi/colors.rasi
