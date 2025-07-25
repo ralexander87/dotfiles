@@ -21,7 +21,9 @@
 - **GPU1**: NVIDIA GeForce RTX 3050 Ti Mobile
 - **RAM**: 16gB
 - **SSD**: 512 nvme
+
 <a href="https://ibb.co/rKwSs6Wk"><img src="https://i.ibb.co/ds5qg2hB/101.png" alt="101" border="0" /></a>
+
 ## Key Features
 
 - Arch Linux with [Hyprland](https://hypr.land/)
@@ -29,6 +31,8 @@
 - Created new [waybar](https://github.com/Alexays/Waybar) theme
 
 <a href="https://ibb.co/rKtvdr4d"><img src="https://i.ibb.co/0pXQsbhs/way.png" alt="way" border="0" /></a>
+
+
 - Customized **ZSHRC** configuration
 
 ## How To Use
