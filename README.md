@@ -21,13 +21,13 @@
 - **GPU1**: NVIDIA GeForce RTX 3050 Ti Mobile
 - **RAM**: 16gB
 - **SSD**: 512 nvme
-![[Pasted image 20250725022853.png]]
+![[101.png]]
 ## Key Features
 
 - Arch Linux with [Hyprland](https://hypr.land/)
 - Using [ML4W](https://github.com/mylinuxforwork/dotfiles) script
 - Created new [waybar](https://github.com/Alexays/Waybar) theme
-	- ![[Pasted image 20250725023105.png]]
+	- ![[way.png]]
 - Customized **ZSHRC** configuration
 
 ## How To Use
