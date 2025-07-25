@@ -22,7 +22,7 @@
 - **RAM**: 16gB
 - **SSD**: 512 nvme
 
-<a href="https://ibb.co/rKwSs6Wk"><img src="https://i.ibb.co/ds5qg2hB/101.png" alt="101" align="center" border="0" /></a>
+<a href="https://ibb.co/rKwSs6Wk"><img src="https://i.ibb.co/ds5qg2hB/101.png" alt="101" align="center" border="0" width="1024"/></a>
 
 ## Key Features
 
