@@ -30,7 +30,7 @@
 - Using [ML4W](https://github.com/mylinuxforwork/dotfiles) script
 - Created new [waybar](https://github.com/Alexays/Waybar) theme
 
-<img src="https://i.ibb.co/0pXQsbhs/way.png" alt="wayBar" width="720" align="center" border="0" />
+<img src="https://i.ibb.co/0pXQsbhs/way.png" alt="wayBar" width="1080" align="center" border="0" />
 
 
 - Customized **ZSHRC** configuration
