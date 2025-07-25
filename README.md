@@ -21,7 +21,7 @@
 - **GPU1**: NVIDIA GeForce RTX 3050 Ti Mobile
 - **RAM**: 16gB
 - **SSD**: 512 nvme
-![[101.png]]
+<a href="https://ibb.co/rKwSs6Wk"><img src="https://i.ibb.co/ds5qg2hB/101.png" alt="101" border="0" /></a>
 ## Key Features
 
 - Arch Linux with [Hyprland](https://hypr.land/)
