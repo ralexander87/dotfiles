@@ -22,7 +22,7 @@
 - **RAM**: 16gB
 - **SSD**: 512 nvme
 
-<img src="https://i.ibb.co/ds5qg2hB/101.png" alt="Termina" align="center" border="0" width="720"/>
+<img src="https://i.ibb.co/ds5qg2hB/101.png" alt="Termina" align="center" border="0"/>
 
 ## Key Features
 
@@ -30,7 +30,7 @@
 - Using [ML4W](https://github.com/mylinuxforwork/dotfiles) script
 - Created new [waybar](https://github.com/Alexays/Waybar) theme
 
-<img src="https://i.ibb.co/0pXQsbhs/way.png" alt="wayBar" width="1080" align="center" border="0" />
+<img src="https://i.ibb.co/0pXQsbhs/way.png" alt="wayBar" align="center" border="0" />
 
 
 - Customized **ZSHRC** configuration
