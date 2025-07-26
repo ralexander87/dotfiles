@@ -22,7 +22,7 @@
 - **RAM**: 16gB
 - **SSD**: 512 nvme
 
-<h1 align="center"><img src="https://i.ibb.co/VyG5jN4/screenshot-26072025-032052.png" alt="Terminal" border="0"></h1>
+<h1 align="center"><img src="https://i.ibb.co/VyG5jN4/screenshot-26072025-032052.png" width="768" alt="Terminal" border="0"></h1>
 
 
 ## Key Features
@@ -36,7 +36,7 @@
 - ROFI menu
 
 
-<h1 align="center"><img src="https://i.ibb.co/fYkKJPkx/screenshot-26072025-034043.png" alt="ROFI" border="0"></h1>
+<h1 align="center"><img src="https://i.ibb.co/fYkKJPkx/screenshot-26072025-034043.png" alt="ROFI" border="0" width="768"></h1>
 
 ## How To Use
 
