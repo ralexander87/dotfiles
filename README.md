@@ -22,7 +22,8 @@
 - **RAM**: 16gB
 - **SSD**: 512 nvme
 
-<h1 align="center"><img src="https://i.ibb.co/VyG5jN4/screenshot-26072025-032052.png" alt="screenshot-26072025-032052"></h1>
+<h1 align="center"><img src="https://i.ibb.co/VyG5jN4/screenshot-26072025-032052.png" alt="Terminal"></h1>
+
 
 ## Key Features
 
@@ -30,8 +31,11 @@
 - Using [ML4W](https://github.com/mylinuxforwork/dotfiles) script
 - Created new [waybar](https://github.com/Alexays/Waybar) theme
 <h1 align="center"><img src="https://i.ibb.co/1JYZ3hXC/Pasted-image-20250725023105.png" alt="wayBar" /></h1>
+
 - Customized **ZSHRC** configuration
 - ROFI menu
+
+
 <h1 align="center"><img src="https://i.ibb.co/fYkKJPkx/screenshot-26072025-034043.png" alt="ROFI"></h1>
 
 ## How To Use
