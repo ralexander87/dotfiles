@@ -30,7 +30,7 @@
 - Arch Linux with [Hyprland](https://hypr.land/)
 - Using [ML4W](https://github.com/mylinuxforwork/dotfiles) script
 - Created new [waybar](https://github.com/Alexays/Waybar) theme
-<h1 align="center"><img src="https://i.ibb.co/1JYZ3hXC/Pasted-image-20250725023105.png" alt="wayBar" /></h1>
+<h1 align="center"><img src="https://i.ibb.co/1JYZ3hXC/Pasted-image-20250725023105.png" alt="wayBar"></h1>
 
 - Customized **ZSHRC** configuration
 - ROFI menu
