@@ -5,3 +5,5 @@ palette = "dark"
 [templates]
 kitty.template = 'kitty-colors.conf'
 kitty.target = '~/.config/kitty/colors-wallust.conf'
+
+rmpc = { template = 'lateralus.ron', target = '~/.config/rmpc/themes/lateralus.ron'}
