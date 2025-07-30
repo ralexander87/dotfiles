@@ -7,12 +7,16 @@ post_hook = 'hyprctl reload'
 
 [templates.cava]
 input_path = '~/.config/matugen/templates/cava-colors.ini'
-output_path = '~/.config/cava/colors'
+output_path = '~/.config/cava/config'
 post_hook = "pkill -USR1 cava"
 
 [templates.waybar]
 input_path = '~/.config/matugen/templates/colors.css'
 output_path = '~/.config/waybar/colors.css'
+
+[templates.obsidian]
+input_path = '~/.config/matugen/templates/obsidian-theme.css'
+output_path = '/home/ralexander/Obsidian/.obsidian/themes/Obsidianite/theme.css'
 
 [templates.rofi]
 input_path = '~/.config/matugen/templates/rofi-colors.rasi'
@@ -57,4 +61,4 @@ output_path = '~/.cache/wal/sequences'
 [templates.ohmyposh]
 input_path = '~/.config/matugen/templates/ohmyposh-colors.json'
 output_path = '~/.config/ohmyposh/colors.json'
-post_hook = "jq --slurpfile palette ~/.config/ohmyposh/colors.json '. + $palette[0]' ~/.config/ohmyposh/EDM115-newline.omp.json > /tmp/new_theme.json && mv /tmp/new_theme.json ~/.config/ohmyposh/EDM115-newline.omp.json"
+post_hook = "jq --slurpfile palette ~/.config/ohmyposh/colors.json '. + $palette[0]' ~/.config/ohmyposh/lateralus.omp.json > /tmp/new_theme.json && mv /tmp/new_theme.json ~/.config/ohmyposh/lateralus.omp.json"
