@@ -45,7 +45,7 @@
 
     @define-color on_tertiary #412742;
 
-    @define-color on_tertiary_container #fdd7fa;
+    @define-color on_tertiary_container #fed7fa;
 
     @define-color on_tertiary_fixed #2a122c;
 
@@ -75,7 +75,7 @@
 
     @define-color shadow #000000;
 
-    @define-color source_color #556692;
+    @define-color source_color #1253be;
 
     @define-color surface #121318;
 
@@ -89,7 +89,7 @@
 
     @define-color surface_container_low #1a1b21;
 
-    @define-color surface_container_lowest #0c0e13;
+    @define-color surface_container_lowest #0d0e13;
 
     @define-color surface_dim #121318;
 
@@ -101,6 +101,6 @@
 
     @define-color tertiary_container #593d59;
 
-    @define-color tertiary_fixed #fdd7fa;
+    @define-color tertiary_fixed #fed7fa;
 
     @define-color tertiary_fixed_dim #e0bbdd;
