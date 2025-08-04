@@ -1,0 +1,58 @@
+# -----------------------------------------------------
+# CUSTOMIZATION
+# -----------------------------------------------------
+# POSH=agnoster
+
+# -----------------------------------------------------
+# oh-myzsh themes: https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+# -----------------------------------------------------
+# ZSH_THEME=robbyrussell
+
+# -----------------------------------------------------
+# oh-myzsh plugins
+# -----------------------------------------------------
+plugins=(
+    git
+    sudo
+    ssh-agent
+    catimg
+    colorize
+    web-search
+    archlinux
+    copyfile
+    copybuffer
+    dirhistory
+    colored-man-pages
+    zsh-autosuggestions
+    zsh-syntax-highlighting
+    fast-syntax-highlighting
+)
+
+# Set-up oh-my-zsh
+source $ZSH/oh-my-zsh.sh
+CASE_SENSITIVE="true"
+DISABLE_MAGIC_FUNCTIONS="false"
+DISABLE_LS_COLORS="false"
+DISABLE_AUTO_TITLE="false"
+ENABLE_CORRECTION="true"
+COMPLETION_WAITING_DOTS="true"
+HIST_STAMPS="dd.mm.yyyy"
+
+# -----------------------------------------------------
+# Set-up FZF key bindings (CTRL R for fuzzy history finder)
+# -----------------------------------------------------
+source <(fzf --zsh)
+
+# zsh history
+HISTFILE=~/.zsh_history
+HISTSIZE=10000
+SAVEHIST=10000
+setopt appendhistory
+
+# -----------------------------------------------------
+# Prompt
+# -----------------------------------------------------
+# eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/zen.toml)"
+eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/EDM115-newline.omp.json)"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/github
