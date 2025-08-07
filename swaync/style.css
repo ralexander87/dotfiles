@@ -8,13 +8,14 @@
 @define-color fontcolor @on_surface;
 
 * {
-    font-family: "Fira Sans Semibold";
+    font-family: "Monofur Nerd Font";
 }
 
 /* Control Center */
 
 .control-center {
     border: 3px solid @bordercolor;
+    	border-radius: 0px;
     padding: 10px;
 }
 
@@ -23,6 +24,7 @@ button {
     min-width: 35px;
     background: @buttoncolor;
     color: @on_secondary;
+    	border-radius: 0px;
 }
 
 .notification-group-header {
@@ -37,7 +39,7 @@ button {
 
 .notification {
     border: 3px solid @bordercolor;
-	border-radius: 10px;
+	border-radius: 0px;
     padding:10px;
 }
 
