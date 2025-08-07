@@ -232,13 +232,13 @@ waveform = 0
 # background must also be defined in hex or remain commented out. 1 = on, 0 = off.
 # You can define as many as 8 different colors. They range from bottom to top of screen
 gradient = 1
-gradient_color_1 = '#36393e'
-gradient_color_2 = '#99ccfa'
-gradient_color_3 = '#094b72'
-gradient_color_4 = '#99ccfa'
-gradient_color_5 = '#cde5ff'
-gradient_color_6 = '#99ccfa'
-gradient_color_7 = '#101418'
+gradient_color_1 = '#3c3930'
+gradient_color_2 = '#dcc66e'
+gradient_color_3 = '#544600'
+gradient_color_4 = '#dcc66e'
+gradient_color_5 = '#fae287'
+gradient_color_6 = '#dcc66e'
+gradient_color_7 = '#16130b'
 
 
 

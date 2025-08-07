@@ -24,6 +24,8 @@
 
 <h1 align="center"><a href="https://ibb.co/22rHn64"><img src="https://i.ibb.co/c59Vgvn/screenshot-26072025-032052.png" alt="screenshot-26072025-032052" border="0"></a></h1>
 
+<h1 align="center"><a href="https://ibb.co/vCqHpfk3"><img src="https://i.ibb.co/xKLDWw61/screenshot-07082025-024709.png" alt="screenshot-07082025-024709" border="0"></a></h1>
+
 
 ## Key Features
 
