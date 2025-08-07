@@ -119,7 +119,7 @@
     "escape": true,
     "return-type": "json",
     "exec": "~/.config/ml4w/scripts/updates.sh",
-    "interval": 1600,
+    "interval": 8600,
     "signal": 1,
     "hide-empty-text": true,
     "on-click": "~/.config/ml4w/settings/installupdates.sh",
