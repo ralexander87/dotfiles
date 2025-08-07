@@ -28,7 +28,9 @@
 
 <h1 align="center"><a href="https://ibb.co/PvjgLrD"><img src="https://i.ibb.co/Vc9T1Lwn/screenshot-07082025-025413.png" alt="screenshot-07082025-025413" border="0"></a></h1>
 
+<h1 align="center"><a href="https://ibb.co/PvjgLrD"><img src="https://i.ibb.co/Vc9T1Lwn/screenshot-07082025-025413.png" alt="screenshot-07082025-025413" border="0"></a></h1>
 
+<h1 align="center"><a href="https://ibb.co/MyMpRYWG"><img src="https://i.ibb.co/j9gGLcBW/screenshot-07082025-025955.png" alt="screenshot-07082025-025955" border="0"></a></h1>
 ## Key Features
 
 - Arch Linux with [Hyprland](https://hypr.land/)
