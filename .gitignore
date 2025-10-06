@@ -1,0 +1,12 @@
+# Folders
+bashrc/
+fish/
+ml4w/
+vim/
+nvim/
+sidepad/
+gtk-3.0/bookmarks
+
+# Files
+chromium-flags.conf
+edge-flags.conf
