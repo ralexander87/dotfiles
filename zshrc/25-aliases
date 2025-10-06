@@ -1,0 +1,50 @@
+# -----------------------------------------------------
+# ALIASES
+# -----------------------------------------------------
+
+# -----------------------------------------------------
+# General
+# -----------------------------------------------------
+alias c='clear'
+alias cat='bat'
+alias ld='exa -Dl --icons'
+alias ls='exa --icons'
+alias ll='exa -alhbo --no-time --total-size --icons --group-directories-first'
+alias cls='clear ; exa --icons'
+alias la='exa -ha --icons'
+alias cla='clear ; exa -ha --icons'
+alias lt='eza -a --tree --level=1 --icons'
+alias wifi='nmtui'
+alias v='$EDITOR'
+alias vim='$EDITOR'
+alias svim='sudo nvim'
+alias icat='kitten icat'
+alias cll='clear ; exa -aoblh --icons --no-time --total-size --no-permissions --group-directories-first'
+alias update-grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
+alias backup='/home/ralexander/Working/bash/backup-rsync.sh'
+alias ..='cd ..'
+
+
+# -----------------------------------------------------
+# Window Managers
+# -----------------------------------------------------
+
+alias Qtile='startx'
+# Hyprland with Hyprland
+
+# -----------------------------------------------------
+# Scripts
+# -----------------------------------------------------
+alias ascii='~/.config/ml4w/scripts/figlet.sh'
+
+# -----------------------------------------------------
+# System
+# -----------------------------------------------------
+alias update-grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
+
+# -----------------------------------------------------
+# Qtile
+# -----------------------------------------------------
+alias res1='xrandr --output DisplayPort-0 --mode 2560x1440 --rate 120'
+alias res2='xrandr --output DisplayPort-0 --mode 1920x1080 --rate 120'
+alias setkb='setxkbmap de;echo "Keyboard set back to de."'
