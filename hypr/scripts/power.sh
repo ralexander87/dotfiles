@@ -71,8 +71,8 @@ if [[ "$1" == "suspend" ]]; then
 	systemctl suspend
 fi
 
-if [[ "$1" == "hibernate" ]]; then
-	echo ":: Hibernate"
-	sleep 1
-	systemctl hibernate
-fi
+# if [[ "$1" == "hibernate" ]]; then
+#	echo ":: Hibernate"
+# 	sleep 1
+# 	systemctl hibernate
+# fi
