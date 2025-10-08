@@ -34,7 +34,6 @@
 
 window#waybar {
   background-color: rgba(0, 0, 0, 0.5);
-  border-bottom: 0px solid #ffffff;
   /* color: #FFFFFF; */
   transition-property: background-color;
   transition-duration: 0.5s;
@@ -302,23 +301,6 @@ window#waybar.empty #window {
   color: #ffffff;
 }
 
-/* -----------------------------------------------------
- * Hardware Group
- * ----------------------------------------------------- */
-
-#disk,
-#memory,
-#cpu,
-#language {
-  margin: 0px;
-  padding: 0px;
-  font-size: 16px;
-  color: @error;
-}
-
-#language {
-  margin-right: 10px;
-}
 
 /* -----------------------------------------------------
  * Clock
@@ -463,29 +445,6 @@ window#waybar.empty #window {
   animation-timing-function: linear;
   animation-iteration-count: infinite;
   animation-direction: alternate;
-}
-
-/* -----------------------------------------------------
- * Tray
- * ----------------------------------------------------- */
-
-#tray {
-  background-color: @background;
-  border: 3px solid @surface_bright;
-  font-size: 22px;
-  color: @primary;
-  border-radius: 15px;
-  padding: 2px 10px 0px 10px;
-  margin: 10px 10px 10px 0px;
-}
-
-#tray > .passive {
-  -gtk-icon-effect: dim;
-}
-
-#tray > .needs-attention {
-  -gtk-icon-effect: highlight;
-  background-color: #eb4d4b;
 }
 
 /* -----------------------------------------------------

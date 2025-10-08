@@ -4,8 +4,10 @@
 //  ██║███╗██║██╔══██║  ╚██╔╝  ██╔══██╗██╔══██║██╔══██╗
 //  ╚███╔███╔╝██║  ██║   ██║   ██████╔╝██║  ██║██║  ██║
 //   ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-//                                                     
-// by Robert Alexander [2024]
+//                              
+// -----------------------------------------------------
+// by Robert Alexander [2025]
+// ralexander87[@]protonmail.com
 // ----------------------------------------------------- 
 //
 
@@ -44,16 +46,9 @@
     // Modules Right    
     "modules-right": [
         "bluetooth",
-        //"memory",
         "network",
         "battery",
-        //"group/hardware",
-        //"custom/cliphist",
-        //"custom/hypridle",
-        //"custom/hyprshade",
-        //"clock",
         "custom/updates",
-        //"custom/chatgpt",
         "custom/notification",
         "custom/exit"
     ]
