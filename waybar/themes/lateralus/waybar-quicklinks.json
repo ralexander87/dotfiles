@@ -1,0 +1,40 @@
+{
+  "custom/quicklink1": {
+    "format": "",
+    "on-click": "obsidian",
+    "tooltip-format": "Open Obsidian"
+  },
+  "custom/quicklink2": {
+    "format": "",
+    "on-click": "~/.config/ml4w/settings/browser.sh",
+    "tooltip-format": "Open Firefox"
+  },
+  "custom/quicklink3": {
+    "format": "",
+    "on-click": "~/.config/ml4w/settings/filemanager.sh",
+    "tooltip-format": "Open filemanager"
+  },
+  "custom/quicklink4": {
+    "format": "",
+    "on-click": "rambox",
+    "tooltip-format": "Open RamBox"
+  },
+  "custom/quicklink5": {
+    "format": "",
+    "on-click": "gnome-calculator",
+    "tooltip-format": "Open calculator"
+  },
+  "custom/quicklink6": {
+    "format": "",
+    "on-click": "~/.config/ml4w/settings/emojipicker.sh",
+    "tooltip-format": "Open emoji picker"
+  },
+  "custom/quicklinkempty": {},
+  "group/quicklinks": {
+    "orientation": "horizontal",
+    "modules": [
+      "custom/quicklink4",
+      "custom/quicklink1"
+    ]
+  }
+}
