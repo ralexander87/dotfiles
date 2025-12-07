@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-		<img src="https://i.imgur.com/4tDlXle.png" alt="Robert Alexander" width="280">
+		<img src="https://i.imgur.com/4tDlXle.png" alt="Robert Alexander" width="280" style="border:5px solid #ffffff">
   <br>
 	  Robert Alexander (At Night)
   <br>
