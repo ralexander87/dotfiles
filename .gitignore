@@ -3,10 +3,6 @@ ml4w/
 nwg-dock-hyprland/
 sidepad/
 walker/
-chromium-flags.conf
-edge-flags.conf
-gtk-3.0/colors.css
-gtk-4.0/colors.css
 hypr/colors.conf
 kitty/colors-matugen.conf
 ohmyposh/EDM115-newline.omp.json
@@ -16,3 +12,7 @@ swaync/colors.css
 waybar/themes/lateralus/colors.css
 waypaper/config.ini
 wlogout/colors.css
+gtk-3.0/colors.css
+gtk-4.0/colors.css
+chromium-flags.conf
+edge-flags.conf
