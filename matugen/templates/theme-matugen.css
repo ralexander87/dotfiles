@@ -3197,10 +3197,10 @@ settings:
 .theme-dark {
   color-scheme: dark;
   --highlight-mix-blend-mode: none;
-  --background-modifier-border: rgb(var(--ctp-surface0));
-  --background-modifier-border-hover: rgb(var(--ctp-surface1));
+  --background-modifier-border: rgb(var(--ctp-surface3));
+  --background-modifier-border-hover: #275C63;
   --background-modifier-border-focus: rgb(var(--ctp-surface2));
-  --anp-speech-bubble-opacity: var(--anp-sp-op-dark, 0.9);
+  --anp-speech-bubble-opacity: var(--anp-sp-op-dark, 0.3);
   --background-modifier-cover: rgba(var(--ctp-mantle), 0.4);
 }
 .theme-dark.theme-dark {
@@ -3251,9 +3251,9 @@ body.theme-dark {
 }
 
 .anp-current-line-border .markdown-source-view .cm-active.cm-line {
-  border-left: 2px solid var(--interactive-accent);
+  border-left: 1px solid var(--interactive-accent);
   margin-left: -2px !important;
-  background-color: rgba(var(--ctp-surface1), 0.4);
+  background-color: rgba(var(--ctp-surface1), 0.8);
 }
 
 .anp-current-line-border-only .markdown-source-view .cm-active.cm-line::before {
@@ -5680,7 +5680,7 @@ hr {
 }
 
 table.dataview.table-view-table > tbody > tr:hover {
-  background-color: rgba(var(--ctp-surface1), 0.1) !important;
+  background-color: rgba(var(--ctp-surface1), 0.8) !important;
 }
 
 .anp-table-toggle.anp-table-th-highlight .markdown-preview-view:not(.cards):not(.table-disable) th,
