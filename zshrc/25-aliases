@@ -25,7 +25,7 @@ alias update-grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 alias backup='/home/ralexander/Working/bash/backup-rsync.sh |& tee -a "backup-rsync-$(date +%F).log" '
 alias ..='cd ..'
 alias scp='scp -O'
-
+alias cr='cargo run'
 
 # -----------------------------------------------------
 # Window Managers

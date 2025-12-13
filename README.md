@@ -56,19 +56,9 @@
 
 ### Keybindings
 
-
-
 ## How To Use
 
 - For now this is just for personal usage.
 
-## Credits
 
-## Related
-
-## Support
-
-## You may also like...
-
-## License
 
