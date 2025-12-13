@@ -29,12 +29,7 @@
 
 ## Screenshots
 
-<div align="center">
-		<img src="https://i.imgur.com/HEngf20.png" width="1366" height="768" >
-	<br>
-		<img src="https://i.imgur.com/hV5qzSs.png" width="1366" height="768" >
-	<br>
-</div>
+<div align="center"> <table border="0" cellspacing="0" cellpadding="5"> <tr> <td align="center"> <a href="https://i.imgur.com/WnUgWPy.png"> <img src="https://i.imgur.com/WnUgWPy.png" width="250" height="150" alt="Image 1"> </a> </td> <td align="center"> <a href="https://i.imgur.com/Y5dIKT6.png"> <img src="https://i.imgur.com/Y5dIKT6.png" width="250" height="150" alt="Image 2"> </a> </td> <td align="center"> <a href="https://i.imgur.com/DI1bvHN.png"> <img src="https://i.imgur.com/DI1bvHN.png" width="250" height="150" alt="Image 3"> </a> </td> </tr> <tr> <td align="center"> <a href="https://i.imgur.com/gBtEjQ7.png"> <img src="https://i.imgur.com/gBtEjQ7.png" width="250" height="150" alt="Image 4"> </a> </td> <td align="center"> <a href="https://i.imgur.com/RsAqKS8.png"> <img src="https://i.imgur.com/RsAqKS8.png" width="250" height="150" alt="Image 5"> </a> </td> <td align="center"> <a href="https://i.imgur.com/ypWPBob.png"> <img src="https://i.imgur.com/ypWPBob.png" width="250" height="150" alt="Image 6"> </a> </td> </tr> <tr> <td align="center"> <a href="https://i.imgur.com/hJDBNXn.png"> <img src="https://i.imgur.com/hJDBNXn.png" width="250" height="150" alt="Image 7"> </a> </td> <td align="center"> <a href="https://i.imgur.com/rqW29w9.png"> <img src="https://i.imgur.com/rqW29w9.png" width="250" height="150" alt="Image 8"> </a> </td> <td align="center"> <!-- empty cell to keep 3 columns aligned --> </td> </tr> </table> </div>
 
 
 ## Key Features
@@ -60,4 +55,4 @@
 
 - For now this is just for personal usage.
 
-<div align="center"> <table border="0" cellspacing="0" cellpadding="5"> <tr> <td align="center"> <a href="https://i.imgur.com/WnUgWPy.png"> <img src="https://i.imgur.com/WnUgWPy.png" width="250" height="150" alt="Image 1"> </a> </td> <td align="center"> <a href="https://i.imgur.com/Y5dIKT6.png"> <img src="https://i.imgur.com/Y5dIKT6.png" width="250" height="150" alt="Image 2"> </a> </td> <td align="center"> <a href="https://i.imgur.com/DI1bvHN.png"> <img src="https://i.imgur.com/DI1bvHN.png" width="250" height="150" alt="Image 3"> </a> </td> </tr> <tr> <td align="center"> <a href="https://i.imgur.com/gBtEjQ7.png"> <img src="https://i.imgur.com/gBtEjQ7.png" width="250" height="150" alt="Image 4"> </a> </td> <td align="center"> <a href="https://i.imgur.com/RsAqKS8.png"> <img src="https://i.imgur.com/RsAqKS8.png" width="250" height="150" alt="Image 5"> </a> </td> <td align="center"> <a href="https://i.imgur.com/ypWPBob.png"> <img src="https://i.imgur.com/ypWPBob.png" width="250" height="150" alt="Image 6"> </a> </td> </tr> <tr> <td align="center"> <a href="https://i.imgur.com/hJDBNXn.png"> <img src="https://i.imgur.com/hJDBNXn.png" width="250" height="150" alt="Image 7"> </a> </td> <td align="center"> <a href="https://i.imgur.com/rqW29w9.png"> <img src="https://i.imgur.com/rqW29w9.png" width="250" height="150" alt="Image 8"> </a> </td> <td align="center"> <!-- empty cell to keep 3 columns aligned --> </td> </tr> </table> </div>
+
