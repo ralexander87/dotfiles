@@ -99,14 +99,16 @@
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212155.jpg"> <img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212155.jpg" width="250" height="150" alt="Image 2"> </a>
       </td>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212234.jpg"> <img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212234.jpg" width="250" height="150" alt="Image 3"> </a>
-      </td>
     </tr>
     <tr>
       <td align="center">
+        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212234.jpg"> <img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212234.jpg" width="250" height="150" alt="Image 3"> </a>
+      </td>
+      <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212253.jpg"> <img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212253.jpg" width="250" height="150" alt="Image 4"> </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212433.jpg"> <img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212433.jpg" width="250" height="150" alt="Image 5"> </a>
       </td>
@@ -121,14 +123,6 @@
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212536.jpg"> <img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212536.jpg" width="250" height="150" alt="Image 8"> </a>
       </td>
-      <td align="center">
-        <!-- empty cell to keep columns aligned -->
-      </td>
     </tr>
   </table>
 </div>
-
-<!-- Optional CSS -->
-<style>
-  table img { object-fit: cover; border-radius: 8px; }
-</style>
