@@ -118,10 +118,10 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212504.jpg"> <img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212504.jpg" width="250" height="150" alt="Image 7"> </a>
+        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212536.jpg"> <img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212536.jpg" width="250" height="150" alt="Image 7"> </a>
       </td>
       <td align="center">
-        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212536.jpg"> <img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212536.jpg" width="250" height="150" alt="Image 8"> </a>
+        <!-- empty cell to keep columns aligned -->
       </td>
     </tr>
   </table>
