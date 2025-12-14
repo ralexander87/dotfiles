@@ -30,70 +30,8 @@
 ## Screenshots
 
 <div align="center">
-    <table border="0" cellspacing="0" cellpadding="5">
-        <tr>
-            <td align="center">
-                <a href="https://i.imgur.com/WnUgWPy.png"> <img src="https://i.imgur.com/WnUgWPy.png" width="250" height="150" alt="Image 1"> </a>
-            </td>
-            <td align="center">
-                <a href="https://i.imgur.com/Y5dIKT6.png"> <img src="https://i.imgur.com/Y5dIKT6.png" width="250" height="150" alt="Image 2"> </a>
-            </td>
-            <td align="center">
-                <a href="https://i.imgur.com/DI1bvHN.png"> <img src="https://i.imgur.com/DI1bvHN.png" width="250" height="150" alt="Image 3"> </a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <a href="https://i.imgur.com/gBtEjQ7.png"> <img src="https://i.imgur.com/gBtEjQ7.png" width="250" height="150" alt="Image 4"> </a>
-            </td>
-            <td align="center">
-                <a href="https://i.imgur.com/RsAqKS8.png"> <img src="https://i.imgur.com/RsAqKS8.png" width="250" height="150" alt="Image 5"> </a>
-            </td>
-            <td align="center">
-                <a href="https://i.imgur.com/ypWPBob.png"> <img src="https://i.imgur.com/ypWPBob.png" width="250" height="150" alt="Image 6"> </a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <a href="https://i.imgur.com/hJDBNXn.png"> <img src="https://i.imgur.com/hJDBNXn.png" width="250" height="150" alt="Image 7"> </a>
-            </td>
-            <td align="center">
-                <a href="https://i.imgur.com/rqW29w9.png"> <img src="https://i.imgur.com/rqW29w9.png" width="250" height="150" alt="Image 8"> </a>
-            </td>
-            <td align="center">
-                <!-- empty cell to keep 3 columns aligned -->
-            </td>
-        </tr>
-    </table>
-</div>
-
-## Key Features
-
-<div align="center" >
-<br>
-	<img src="https://i.imgur.com/tMFoHGX.png" alt="wayBar"/>
-<br>
-</div>
-
-- Arch Linux with [Hyprland](https://hypr.land/)
-- Using [ML4W](https://github.com/mylinuxforwork/dotfiles) script
-- Created new [waybar](https://github.com/Alexays/Waybar) theme
-- Kitty terminal with `zsh` OhMyZSH
-- Customized ZSHRC configuration
-- ROFI menu
-- Thunar file browser
-- hyprlock and hypridle
-
-### Keybindings
-
-## How To Use
-
-- For now this is just for personal usage.
-
-
-<div align="center">
   <table border="0" cellspacing="0" cellpadding="5">
-    <tr><td colspan="3" align="center" style="padding: 6px 0 12px 0;"><strong>This is title</strong></td></tr>
+    <tr><td colspan="3" align="center" style="padding: 6px 0 12px 0;"><strong>Showcase</strong></td></tr>
     <tr>
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212125.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212125.jpg" width="250" height="150" alt="Image 1" style="object-fit: cover;"></a>
@@ -127,3 +65,29 @@
     </tr>
   </table>
 </div>
+
+## Key Features
+
+<div align="center" >
+<br>
+	<img src="https://i.imgur.com/tMFoHGX.png" alt="wayBar"/>
+<br>
+</div>
+
+- Arch Linux with [Hyprland](https://hypr.land/)
+- Using [ML4W](https://github.com/mylinuxforwork/dotfiles) script
+- Created new [waybar](https://github.com/Alexays/Waybar) theme
+- Kitty terminal with `zsh` OhMyZSH
+- Customized ZSHRC configuration
+- ROFI menu
+- Thunar file browser
+- hyprlock and hypridle
+
+### Keybindings
+
+## How To Use
+
+- For now this is just for personal usage.
+
+
+
