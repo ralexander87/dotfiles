@@ -181,21 +181,21 @@
   "patch_pwsh_bleed": true,
   "final_space": true,
   "palette": {
-    "color0": "#101418",
+    "color0": "#181115",
     "color1": "000000",
     "color2": "ffccff",
     "color3": "666666",
     "color4": "cccccc",
     "color5": "",
     "color6": "",
-    "color7": "#e0e2e8",
+    "color7": "#eddfe4",
     "color8": "",
     "color9": "",
-    "color10": "#99ccfa",
+    "color10": "#fab1d9",
     "color11": "",
     "color12": "",
-    "color13": "#001d31",
+    "color13": "#370728",
     "color14": "",
-    "color15": "#e0e2e8"
+    "color15": "#eddfe4"
   }
 }
