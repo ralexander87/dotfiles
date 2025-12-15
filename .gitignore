@@ -16,3 +16,4 @@ gtk-3.0/colors.css
 gtk-4.0/colors.css
 chromium-flags.conf
 edge-flags.conf
+*.css
