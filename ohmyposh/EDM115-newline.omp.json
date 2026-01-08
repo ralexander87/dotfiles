@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
   "transient_prompt": {
-    "template": "  󰁘 {{ .AbsolutePWD }} : ",
+    "template": "  ❯❯ {{ .AbsolutePWD }} : ",
     "foreground": "p:color15",
     "background": "transparent",
     "newline": true
@@ -25,7 +25,7 @@
             "cache_duration": "none"
           },
           "leading_diamond": "",
-          "template": "[{{ .UserName }}]",
+          "template": "{{ .UserName }}",
           "foreground": "p:color15",
           "background": "p:color13",
           "type": "session",
@@ -168,7 +168,7 @@
             "always_enabled": true,
             "cache_duration": "none"
           },
-          "template": "╰─ ",
+          "template": "╰─ ❯❯",
           "foreground": "p:color15",
           "type": "text",
           "style": "diamond"
@@ -181,21 +181,21 @@
   "patch_pwsh_bleed": true,
   "final_space": true,
   "palette": {
-    "color0": "#101418",
+    "color0": "#121318",
     "color1": "000000",
     "color2": "ffccff",
     "color3": "666666",
     "color4": "cccccc",
     "color5": "",
     "color6": "",
-    "color7": "#e0e2e8",
+    "color7": "#e3e1e9",
     "color8": "",
     "color9": "",
-    "color10": "#9bcbfb",
+    "color10": "#b7c4ff",
     "color11": "",
     "color12": "",
-    "color13": "#001d33",
+    "color13": "#05164b",
     "color14": "",
-    "color15": "#e0e2e8"
+    "color15": "#e3e1e9"
   }
 }

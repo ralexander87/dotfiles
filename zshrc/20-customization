@@ -1,7 +1,7 @@
 # -----------------------------------------------------
 # CUSTOMIZATION
 # -----------------------------------------------------
-# POSH=agnoster
+POSH=agnoster
 
 # -----------------------------------------------------
 # oh-myzsh themes: https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
@@ -9,7 +9,7 @@
 # ZSH_THEME=robbyrussell
 
 # -----------------------------------------------------
-# oh-myzsh plugins
+# oh-my-zsh plugins
 # -----------------------------------------------------
 plugins=(
     git
@@ -29,22 +29,6 @@ plugins=(
     zsh-syntax-highlighting
     fast-syntax-highlighting
 )
-
-fpath+=${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions/src
-autoload -U compinit && compinit
-zstyle ':completion:*:*:*:*:*' menu select
-zstyle ':completion:*' auto-description 'specify: %d'
-zstyle ':completion:*' completer _expand _complete
-zstyle ':completion:*' format 'Completing %d'
-zstyle ':completion:*' group-name ''
-zstyle ':completion:*' list-colors ''
-zstyle ':completion:*' list-prompt %SAt %p: Hit TAB for more, or the character to insert%s
-zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
-zstyle ':completion:*' rehash true
-zstyle ':completion:*' select-prompt %SScrolling active: current selection at %p%s
-zstyle ':completion:*' use-compctl false
-zstyle ':completion:*' verbose true
-zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
 # Set-up oh-my-zsh
 source $ZSH/oh-my-zsh.sh
@@ -67,10 +51,18 @@ HISTSIZE=10000
 SAVEHIST=10000
 setopt appendhistory
 
+autoload -Uz edit-command-line
+zle -N edit-command-line
+bindkey '^X^E' edit-command-line
+
 # -----------------------------------------------------
 # Prompt
 # -----------------------------------------------------
+eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/zen.toml)"
+# eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/EDM115-newline.omp.json)"
+
+# Shipped Theme
+# eval "$(oh-my-posh init zsh --config /usr/share/oh-my-posh/themes/agnoster.omp.json)"
 eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/EDM115-newline.omp.json)"
  eval "$(ssh-agent -s)"
 #ssh-add ~/.ssh/gitTest
-

@@ -1,6 +1,7 @@
 # -----------------------------------------------------
 # ALIASES
 # -----------------------------------------------------
+# bindkey ' ' magic-space
 
 # -----------------------------------------------------
 # General
@@ -21,29 +22,17 @@ alias vim='$EDITOR'
 alias svim='sudo nvim'
 alias icat='kitten icat'
 alias cll='clear ; exa -aoblh --icons --no-time --total-size --no-permissions --group-directories-first'
+alias apps='~/.config/ml4w/bin/ml4w-apps.sh'
 alias update-grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
-alias backup='/home/ralexander/Working/bash/backup-rsync.sh |& tee -a "backup-rsync-$(date +%F).log" '
+alias backup='/home/ralexander/Code/PY/PY/backup-rsync.py'
 alias ..='cd ..'
 alias scp='scp -O'
 alias cr='cargo run'
 
-# -----------------------------------------------------
-# Window Managers
-# -----------------------------------------------------
-
-alias Qtile='startx'
-# Hyprland with Hyprland
-
-# -----------------------------------------------------
-# Scripts
-# -----------------------------------------------------
-alias ascii='~/.config/ml4w/scripts/figlet.sh'
-
+alias dots='cd ~/.mydotfiles/com.ml4w.dotfiles.stable/.config'
+alias zshrc='cd ~/.mydotfiles/com.ml4w.dotfiles.stable/.config/zshrc'
 # -----------------------------------------------------
 # System
 # -----------------------------------------------------
 alias update-grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 
-# -----------------------------------------------------
-# Qtile
-# -----------------------------------------------------

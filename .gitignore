@@ -1,8 +1,9 @@
-bashrc
+bashrc/
 ml4w/
 nwg-dock-hyprland/
 sidepad/
 walker/
+cava/themes/
 hypr/colors.conf
 kitty/colors-matugen.conf
 ohmyposh/EDM115-newline.omp.json
@@ -10,6 +11,7 @@ ohmyposh/colors.json
 rofi/colors.rasi
 swaync/colors.css
 waybar/themes/lateralus/colors.css
+waybar/themes/ralex/colors.css
 waypaper/config.ini
 wlogout/colors.css
 gtk-3.0/colors.css

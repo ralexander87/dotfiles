@@ -1,0 +1,43 @@
+{
+    // General Settings
+    "layer": "top",
+    "margin-top": 1,
+    "margin-bottom": 1,
+    "margin-left": 0,
+    "margin-right": 0,
+    "spacing": 0,
+    // Load Modules
+    "include": [
+        "~/.config/waybar/themes/ralex/waybar-quicklinks.json",
+        "~/.config/waybar/themes/ralex/modules.json"
+    ],
+    // Modules Left
+    "modules-left": [
+        "custom/appmenu",
+	"clock",
+	"group/quicklinks",
+        "wlr/taskbar",
+        //"custom/nowplaying",        
+        "custom/empty"
+    ],
+    // Modules Center
+    "modules-center": [
+        "backlight",
+        "custom/empty",
+        "hyprland/workspaces",
+        "pulseaudio",
+        "custom/empty"
+    ],
+    // Modules Right    
+    "modules-right": [
+        "custom/updates",
+        "bluetooth",
+        "network",
+        "battery",
+        //"group/hardware",
+        //"group/tools",
+        //"tray",
+        "custom/notification",
+        "custom/exit"
+    ]
+}
