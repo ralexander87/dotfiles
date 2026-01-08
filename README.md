@@ -26,7 +26,6 @@
 </div>
 
 <br>
-
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="5">
     <tr>
@@ -42,11 +41,11 @@
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03124.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03124.jpg" width="250" height="150" alt="Image 4" style="object-fit: cover;"></a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03132.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03132.jpg" width="250" height="150" alt="Image 5" style="object-fit: cover;"></a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03143.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03143.jpg" width="250" height="150" alt="Image 6" style="object-fit: cover;"></a>
       </td>
@@ -56,20 +55,22 @@
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03151.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03151.jpg" width="250" height="150" alt="Image 8" style="object-fit: cover;"></a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03153.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03153.jpg" width="250" height="150" alt="Image 9" style="object-fit: cover;"></a>
       </td>
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03155.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03155.jpg" width="250" height="150" alt="Image 10" style="object-fit: cover;"></a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03172.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03172.jpg" width="250" height="150" alt="Image 11" style="object-fit: cover;"></a>
       </td>
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03175.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03175.jpg" width="250" height="150" alt="Image 12" style="object-fit: cover;"></a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03183.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03183.jpg" width="250" height="150" alt="Image 13" style="object-fit: cover;"></a>
       </td>
@@ -79,19 +80,12 @@
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03202.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03202.jpg" width="250" height="150" alt="Image 15" style="object-fit: cover;"></a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03224.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/pic03224.jpg" width="250" height="150" alt="Image 16" style="object-fit: cover;"></a>
       </td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
     </tr>
   </table>
 </div>
-
 ## Key Features
 
 <div align="center" >
@@ -114,6 +108,4 @@
 ## How To Use
 
 - For now this is just for personal usage.
-
-
 
