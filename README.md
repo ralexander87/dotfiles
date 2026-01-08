@@ -27,44 +27,6 @@
 
 <br>
 
-## Screenshots
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="5">
-    <tr><td colspan="3" align="center" style="padding: 6px 0 12px 0;"><strong>Showcase</strong></td></tr>
-    <tr>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212125.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212125.jpg" width="250" height="150" alt="Image 1" style="object-fit: cover;"></a>
-      </td>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212155.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212155.jpg" width="250" height="150" alt="Image 2" style="object-fit: cover;"></a>
-      </td>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212234.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212234.jpg" width="250" height="150" alt="Image 3" style="object-fit: cover;"></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212253.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212253.jpg" width="250" height="150" alt="Image 4" style="object-fit: cover;"></a>
-      </td>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212433.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212433.jpg" width="250" height="150" alt="Image 5" style="object-fit: cover;"></a>
-      </td>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212449.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212449.jpg" width="250" height="150" alt="Image 6" style="object-fit: cover;"></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212504.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212504.jpg" width="250" height="150" alt="Image 7" style="object-fit: cover;"></a>
-      </td>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212536.jpg"><img src="https://raw.githubusercontent.com/ralexander87/dotfiles/main/showcase/screenshot_13122025_212536.jpg" width="250" height="150" alt="Image 8" style="object-fit: cover;"></a>
-      </td>
-      <td align="center"></td>
-    </tr>
-  </table>
-</div>
 
 ## Key Features
 
